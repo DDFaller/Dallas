@@ -1,0 +1,151 @@
+<!DOCTYPE  html>
+
+<html lang="en"><head>
+<meta content="summary" name="twitter:card"/>
+<meta content="@WineChallenge" name="twitter:site"/>
+<meta content="IWC" property="og:site_name"/>
+<title>Mora Pinot Noir,2023</title>
+<meta content="International Wine Challenge - The most influential wine competition in the World" property="og:title"/>
+<meta content="International Wine Challenge - The most influential wine competition in the World" name="twitter:title"/>
+<meta content="en" http-equiv="content-language" itemprop="inLanguage"/>
+<meta content="en" http-equiv="language"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script src="//admin.webpuzzleapp.com/js/jquery/1.12.2/jquery.min.js" type="text/javascript"></script>
+<meta content="initial-scale=1.0,width=device-width" name="viewport"/><link href="https://use.typekit.net/wnn0uls.css" rel="stylesheet"/>
+<link href="/filestore/css/master-dev.css" rel="stylesheet"/>
+<link href="/filestore/css/grid.css" rel="stylesheet"/>
+<link href="/filestore/css/jetmenu.css" rel="stylesheet"/>
+<link href="/filestore/css/responsive.css" rel="stylesheet"/>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P5VB7WD');</script>
+<!-- End Google Tag Manager -->
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="/filestore/js/jetmenu.js"></script>
+<script src="/filestore/js/iwc_no_glide.js" type="text/javascript"></script>
+<link href="/filestore/css/font-awesome.css" rel="stylesheet"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-5595343-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5595343-1');
+</script>
+<script src="https://js.stripe.com/v3/"></script>
+</head>
+<body>
+<ul class="jetmenu white nav"><li class="mobile-no" value="IWC Logo"><a class="logo" href="/index.html"><img alt="International Wine Challenge" height="55" src="/filestore/img/iwc-logo-simplified.svg" title="International Wine Challenge" width="63"/></a></li><li value="Enter"><a class="dd" href="#">Enter</a><ul class="dropdown"><li value="Enter"><a href="/canopy/login">Enter</a></li><li><a href="/iwc-shop-stickers.html" id="contentLink_1628512">IWC Stickers</a></li><li><a href="/why-take-part.html" id="contentLink_1618655">Why take part?</a></li><li><a href="/how-to-enter.html" id="contentLink_1618651">How to enter?</a></li><li><a href="/timeline-and-pricing.html" id="contentLink_1618652">Timeline and Pricing</a></li><li><a href="/shipping-your-wines.html" id="contentLink_1029637">Shipping Your Wines</a></li><li><a href="/the-discovery-tasting.html" id="contentLink_1029639">The Discovery Tasting</a></li><li><a href="/privacy-policy.html" id="contentLink_1647055">IWC Events Privacy Policy – January 2025</a></li></ul></li><li value="Global Judges"><a class="dd" href="#">Global Judges</a><ul class="dropdown"><li><a href="/judges.html">IWC Wine Judges</a></li><li><a href="/judges-availability.html">Judges Login</a></li><li><a href="/become-a-judge.html">Become a Judge</a></li></ul></li><li value="The Judging"><a href="#">The Judging</a><ul class="dropdown"><li><a href="/the-process.html" id="contentLink_1618653">The Process</a></li><li><a href="/medals-and-awards.html" id="contentLink_1618654">Medals and Awards</a></li><li><a href="/award-qualification.html" id="contentLink_1413031">Award Qualification</a></li></ul></li><li value="Results"><a class="dd" href="#">Results</a><ul class="dropdown"><li><a href="/canopy/search_results.php">Search All Wines</a></li><li class="dd"><a><span>Trophy Results</span></a><ul class="dropdown"><li value="2025"><a href="/trophy-results-2025.html">2025</a></li><li value="2024"><a href="/trophy-results-2024.html">2024</a></li><li value="2023"><a href="/trophy-results-2023.html">2023</a></li><li value="2022 Results"><a href="/trophy-results-2022.html">2022</a></li><li value="2021 Results"><a href="/trophy-results-2021.html">2021</a></li><li value="2020 Results"><a href="/trophy-results-2020.html">2020</a></li><li value="2019 Results"><a href="/trophy-results-2019.html">2019</a></li><li value="2018 Results"><a href="/trophy-results-2018.html">2018</a></li><li value="2017 Results"><a href="/trophy-results-2017.html">2017</a></li><li value="2016 Results"><a href="/trophy-results-2016.html">2016</a></li><li value="2015 results"><a href="/trophy-results-2015.html">2015</a></li><li><a href="/trophy-results-2014.html">2014</a></li><li><a href="/trophy-results-2013.html"><span>2013</span></a></li><li><a href="/trophy-results-2012.html"><span>2012</span></a></li><li><a href="/trophy-results-2011.html"><span>2011</span></a></li><li><a href="/trophy-results-2010.html"><span>2010</span></a></li><li><a href="/trophy-results-2009.html"><span>2009</span></a></li></ul></li><li><a><span>Great Value Results</span></a><ul class="dropdown"><li value="2025"><a href="/great-value-results-2025.html">2025</a></li><li value="2024"><a href="/great-value-results-2024.html">2024</a></li><li value="2023"><a href="/great-value-results-2023.html">2023</a></li><li value="2022"><a href="/great-value-results-2022.html">2022</a></li><li value="2021"><a href="/great-value-results-2021.html">2021</a></li><li value="2020"><a href="/great-value-results-2020.html">2020</a></li><li value="2019"><a href="/great-value-results-2019.html">2019</a></li><li value="2018"><a href="/great-value-results-2018.html">2018</a></li><li value="2017"><a href="/great-value-results-2017.html">2017</a></li><li value="2016"><a href="/great-value-results-2016.html">2016</a></li><li value="2015"><a href="/great-value-results-2015.html">2015</a></li><li><a href="/great-value-results-2014.html"><span>2014</span></a></li><li><a href="/great-value-results-2013.html"><span>2013</span></a></li><li><a href="/great-value-results-2012.html"><span>2012</span></a></li><li><a href="/great-value-results-2011.html"><span>2011</span></a></li><li><a href="/great-value-results-2010.html"><span>2010</span></a></li><li><a href="/great-value-results-2009.html"><span>2009</span></a></li></ul></li><li><a href="/turn-your-iwc-medal-into-sales">Make The Most Of Your Success</a></li><li><a href="/awards-dinner-2025">Awards Dinner</a></li><li><a href="/shop.html">Buy IWC Stickers</a></li></ul></li><li value="IWC Sake"><a href="#">IWC Sake</a><ul class="dropdown"><li><a href="/about-the-sake-competition.html" id="contentLink_1488050">About IWC Sake</a></li><li><a href="/judges-sake.html">IWC Sake Judges</a></li></ul></li><li value="Canopy"><a href="/Insight-Articles.html">Insight</a><ul class="dropdown"><li><a href="/Insight-Articles.html?categoryId=1517214#Winemaker Interviews" id="contentLink_1526380">Winemaker Interviews</a></li><li><a href="/Insight-Articles.html?categoryId=1517215#Amazing Wines" id="contentLink_1526379">Amazing Wines</a></li><li><a href="/Insight-Articles.html?categoryId=1525590#Tomorrow’s Vineyard" id="contentLink_1526377">Tomorrow’s Vineyard</a></li><li><a href="/Insight-Articles.html?categoryId=1571756#New technology" id="contentLink_1571759">New technology</a></li><li><a href="/Insight-Articles.html?categoryId=1571755#Sustainability" id="contentLink_1571758">Sustainability</a></li><li><a href="/Insight-Articles.html?categoryId=1571757#Production " id="contentLink_1571760">Production </a></li><li><a href="/Insight-Articles.html?categoryId=1525589#Research" id="contentLink_1526378">Research</a></li><li><a href="/Insight-Articles.html?categoryId=1525591#Wine Business" id="contentLink_1526376">Wine Business</a></li><li><a href="/Insight-Articles.html?categoryId=1527235#IWC News" id="contentLink_1527236">IWC News</a></li></ul></li><li value="Media Centre"><a class="dd" href="#">Media Centre</a><ul class="dropdown"><li><a href="/press-releases.html" id="contentLink_1443146">Press Releases</a></li><li><a href="/media-coverage.html" id="contentLink_1443147">Media Coverage</a></li><li><a href="/brand-guidelines.html" id="contentLink_1040404">Brand Guidelines</a></li><li><a href="/photography.html" id="contentLink_1040405">Photography</a></li></ul></li><li value="Sponsors"><a class="dd" href="#">Sponsors</a><ul class="dropdown"><li><a href="/sponsors/our-sponsors.html">Our Sponsors</a></li><li><a href="/sponsors/become-a-sponsor.html">Become a Sponsor</a></li></ul></li><li value="IWC Industry Awards"><a>Awards Dinner</a><ul class="dropdown"><li value="Awards Dinner"><a href="/awards-dinner-2025" target="_self">Awards Dinner</a></li><li value="Industry Awards website"><a href="https://iwcindustryawards.com/2025/en/page/home" target="_blank">Industry Awards Website</a></li></ul></li><li value="Contact Us"><a class="dd" href="#">Contact Us</a><ul class="dropdown"><li><a href="/contact-us.html">Contact Us</a></li><li><a href="/global-ambassadors.html">Global Ambassadors</a></li></ul></li><li class="search" value="Wine Search"><a href="/canopy/search_results.php"><img alt="Search for Wine" height="32" src="/filestore/img/icon-search.svg" title="Search for Wine" width="27"/></a></li><li class="enter fix-sub" value="Login"><a class="dd" href="/canopy/login">Login</a></li></ul><!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-P5VB7WD" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script>
+	var get = null
+</script>
+<script src="//www.google.com/recaptcha/api.js"></script>
+<script>
+        function chekHRes(token) 
+        {			
+            $.ajaxSetup({'async': false});            
+			
+            $.post("winesearcher_api",
+                { token: token, 
+                queryStr: "currencycode=GBP&amp;location=NZ&amp;vintage=2023&amp;winename=Mora+Pinot+Noir+Mora+Wines+New+Zealand+Central+Otago&amp;autoexpand=Y" } ,
+                function(data)
+                {
+                    console.log(data);
+                    $('#wine-detail-stockists').html(data);
+                    $('#wine-detail-stockists').show();
+                }
+            );
+        }
+		
+    </script>
+<div class="fw" id="article">
+<div class="head" style="height:50px">
+</div>
+<div class="c grp">
+<div class="article-intro col c-12">
+<div class="col c-2"> </div>
+<div class="col c-8">
+<p class="sub-title"><i onclick="history.go(-1);">← Back to search</i></p>
+<h1>Mora Pinot Noir,                    2023                </h1>
+</div>
+<div class="col c-2"> </div>
+</div>
+<div class="col c-12 result-content">
+<div class="bottle col c-6">
+<img alt="" src="images/wine_images/IWC/wine/2025/zoom/1631.jpg"/>
+</div>
+<div class="medals col c-1">
+<p>Medals</p>
+<img alt="" src="images/medals/IWC/2025/Gold_thumb.png" width="100%">
+<div class="col-320 search-badges omega"><img alt="" src="images/medals/IWC/2025/Trophy_thumb.png"/></div>
+</img></div>
+<div class="col c-5">
+<div class="tasting">
+<div class="tasting-img"><img alt="" height="64" src="images/tasting.svg" width="64"/></div>
+<div class="tasting-note">
+<h3>Tasting Notes</h3>
+<p>This has beautiful aromas of sweet, black cherries, with raspberry notes and a hint of olive  savourieness. The palate is ripe but balanced with beautifully layered fruit and good sturcture.</p>
+</div>
+</div>
+<img alt="" class="iwc-points" src="images/medals/IWC/2025/Trophy_points_96_thumb.png">
+<div class="information">
+<p><span>Produced by</span> Mora Wines</p>
+<p><span>Country</span> Central Otago, New Zealand</p>
+<p><span>Grape</span>Pinot Noir</p>
+<p><span>Alcohol level</span>13.5%</p>
+<p><span>Wine style</span>  Still</p>
+<p><span>Wine colour</span> Red</p>
+<p><span>IWC Points</span>96</p>
+<ul>
+<li>Trophies</li>
+						Central Otago Pinot Noir Trophy, 
+					</ul>
+</div>
+</img></div>
+</div>
+</div>
+</div>
+<div class="fw" id="footer"><div class="c grp"><div class="col c-12"><div class="col c-6"><ul class="social"><li value="Facebook"><a href="https://www.facebook.com/InternationalWineChallenge/"><img alt="Facebook - International Wine Challenge" height="32" src="/filestore/img/if_square-facebook_317727.svg" width="32"/></a></li><li value="X/Twitter"><a href="https://twitter.com/WineChallenge?lang=en"><img alt="Twitter - International Wine Challenge" height="32" src="/filestore/img/if_twitter_386736.svg" width="32"/></a></li><li value="YouTube"><a href="https://www.youtube.com/user/winechallenge"><img alt="YouTube - International Wine Challenge" height="32" src="/filestore/svg/youtube_play.svg" width="32"/></a></li><li value="Instagram"><a href="https://www.instagram.com/internationalwinechallenge/"><img alt="Instagram - International Wine Challenge" height="32" src="/filestore/svg/instagram.svg" width="32"/></a></li><li value="LinkedIn"><a href="https://www.linkedin.com/company/international-wine-challenge" target="_blank"><img alt="LinkedIn - International Wine Challenge" height="32" src="/filestore/svg/linkedin-icon-2.svg" width="32"/></a></li><li class="col-60 alpha" value="Incredible Wine Choice"><a href="https://www.instagram.com/incrediblewinechoice/" target="_blank"><img height="40" src="/filestore/png/Incredible Wine Choice logo.png" width="40"/></a></li></ul></div><div class="col c-6"><ul class="links"><li><a href="/contact-us.html">Contact us</a></li><li><a href="/shop.html">Shop</a></li><li><a href="/testimonials.html">Testimonials</a></li><li><a href="/rules-of-entry.html">Rules of Entry</a></li><li><a href="/privacy-policy.html">Privacy Policy</a></li><li><a href="/faq.html">FAQ</a></li></ul></div></div></div><div id="footer-copyright"><div class="container"><div class="col-960"><div id="wrbm-footer-div"><style type="text/css">
+	@media only screen and (max-width: 767px) { 
+		#wrbm-footer-div { 
+			text-align: center; 
+		}
+		#wrbm-footer-div img {
+			float: none !important;display: inline-block !important;padding-bottom: 0 !important;
+		}
+	}
+	@media only screen and (max-width: 479px) { 
+		#wrbm-footer-div { 
+			text-align: center; 
+		}
+		#wrbm-footer-div img {
+			float: none !important;display: inline-block !important;padding-bottom: 0 !important;
+		}
+	}
+</style>
+<div id="wrbm-footer-div" style="width:100%;margin:0 auto;padding:0;background-color:transparent;">
+<a href="https://www.internationalwinechallenge.com">
+<img alt="IWC Events" border="0" height="auto" src="/filestore/png/IWCEvents-200.png" style="margin:20px 20px 20px 10px;float:left;" width="200px"/>
+</a>
+<p style="color:white;font-size:11px;line-height:1.5em;padding:20px 10px 20px 20px;">
+		© IWC Events Ltd 2025. All rights reserved.
+		Registered Office: 12 St. George’s Industrial Estate, White Lion Road, Amersham, HP7 9JQ.
+		Registered in England No.15875664. VAT No.GB 473 6202 95.
+	</p>
+</div><a href="http://www.webpuzzle.co.uk/"><img border="0" src="/filestore/png/PoweredbyWP_white.png" style="float:right;margin-top:34px;"/></a></div></div><br clear="all"/></div></div>
+<script type="text/javascript">var linkToWrbmPolicyPage = "https://www.william-reed.com/William-Reed-Privacy-Cookies-Policy"; var ppBgColor = '#000'; var ppFontColor = '#fff';var ppOpacity = '0.9'</script>
+<script>
+if(window.location.pathname.includes('/fr/')) $('body').addClass('fr');
+
+</script>
+</div><!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-P5VB7WD" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></body>
+</html>
