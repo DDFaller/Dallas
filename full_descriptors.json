@@ -1,0 +1,26 @@
+{
+  "aroma": {
+    "fruit": {
+      "red": ["cherry", "cherries", "strawberry", "cranberry", "raspberry"],
+      "black": ["blackberry", "blackcurrant", "plum", "blueberry", "sloe", "damson"],
+      "stone": ["peach", "yellow peach", "apricot", "nectarine"],
+      "citrus": ["lemon", "lemon zest", "lime", "mandarin", "grapefruit"],
+      "tropical": ["kiwi", "pineapple", "melon", "banana"],
+      "other": ["greengage", "pear", "nashi pear", "tinned peach"]
+    },
+    "floral": ["honeysuckle", "elderflower", "apple blossom", "wild flower"],
+    "herbal": ["mint", "thyme", "eucalyptus", "herbs", "leafy", "green"],
+    "spice": ["pepper", "black pepper", "clove", "cinnamon", "nutmeg", "spice"],
+    "savory": ["olive", "iodine", "saline", "truffle", "earthy", "mushroom", "leather", "nutty", "toasted cashew", "hazelnut"],
+    "oak_sweet": ["vanilla", "chocolate", "dark chocolate", "mocha", "coffee", "toast", "smoke", "candied", "honey", "caramel"]
+  },
+  "structure": {
+    "acidity_signals": ["bright", "fresh", "tangy", "crunchy", "vibrant"],
+    "shape": ["linear"],
+    "texture_body": ["velvety", "silky", "creamy", "mouthcoating", "oily", "supple", "full", "rounded", "harmonious"],
+    "tannin": ["soft tannins", "fine tannins", "velvety tannins", "chewy tannins", "firm tannins", "gripping tannins", "sinewy tannins"],
+    "juiciness": ["juicy"]
+  },
+  "finish": ["long", "lingering", "lasting", "uplifting", "impressive"],
+  "complexity": ["layered", "concentrated", "complex", "focused", "integrated", "structured", "balanced"]
+}
